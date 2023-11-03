@@ -64,7 +64,7 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- # linkedin: jordankrywonos
+ linkedin: jordankrywonos
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -149,7 +149,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "/assets/img/tng_cosmicweb.jpg"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/tng_cosmicweb.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
