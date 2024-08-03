@@ -4,8 +4,8 @@ title: Research
 subtitle: Cosmology
 ---
 
-Intro to my research field
+My publications can be found here on [iNSPIRE HEP](https://inspirehep.net/authors/2765907).
 
 ### My Projects
 
-Projects
+Project list to arrive soon
