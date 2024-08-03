@@ -150,8 +150,8 @@ footer-hover-col: "#0085A1"
 
 # navbar-img: "/assets/img/tng_cosmicweb.jpg"
 # footer-img: "/assets/img/tng_cosmicweb.jpg"
-navbar-img: "/assets/img/kSZ.JPG"
-footer-img: "/assets/img/kSZ.JPG"
+navbar-img: "/assets/img/kSZ.jpg"
+footer-img: "/assets/img/kSZ.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
