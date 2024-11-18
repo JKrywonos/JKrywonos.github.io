@@ -6,7 +6,7 @@ use-site-title: true
 share-img: https://github.com/JKrywonos/JKrywonos.github.io/blob/master/assets/img/Jordan_Krywonos_009_Original.jpg
 ---
 
-![](/img/Jordan_Krywonos_009_Original.jpg)
+![](https://github.com/JKrywonos/JKrywonos.github.io/blob/master/assets/img/Jordan_Krywonos_009_Original.jpg)
 
 I am a resident PhD student at the Perimeter Institute for Theoretical Physics, and obtaining my degree from York University, under the supervision of [Dr. Matthew Johnson](https://perimeterinstitute.ca/people/matthew-johnson). Previously, I did the [Perimeter Scholars International Master’s program](https://perimeterinstitute.ca/psi-masters-program), where I was supervised by [Dr. Will Percival](https://perimeterinstitute.ca/people/will-percival). Originally, I am from Okanagan, BC, Canada which led me to do my Bachelors degree at the University of British Columbia, Okanagan campus with [Dr. John Hopkinson](https://cmps.ok.ubc.ca/about/contact/john-hopkinson/). During this time I did a summer undergraduate internship at Perimeter Institute with [Dr. Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/). 
 
