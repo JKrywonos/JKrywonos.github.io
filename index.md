@@ -3,6 +3,7 @@ layout: home
 title: Jordan Krywonos
 subtitle: PhD Student at Perimeter Institute for Theoretical Physics
 use-site-title: true
+share-img: https://github.com/JKrywonos/JKrywonos.github.io/blob/master/assets/img/Jordan_Krywonos_009_Original.jpg
 ---
 
 ![](https://github.com/JKrywonos/JKrywonos.github.io/blob/master/assets/img/Jordan_Krywonos_009_Original.jpg)
